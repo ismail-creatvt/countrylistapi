@@ -1,0 +1,251 @@
+id,name,country_code,phone_code,capital,currency,currency_symbol,region,subregion,latitude,longitude
+1,Afghanistan,AF,93,Kabul,AFN,؋,Asia,Southern Asia,33,65
+2,Aland Islands,AX,340,Mariehamn,EUR,€,Europe,Northern Europe,60.116667,19.9
+3,Albania,AL,355,Tirana,ALL,Lek,Europe,Southern Europe,41,20
+4,Algeria,DZ,213,Algiers,DZD,دج,Africa,Northern Africa,28,3
+5,American Samoa,AS,-683,Pago Pago,USD,$,Oceania,Polynesia,-14.33333333,-170
+6,Andorra,AD,376,Andorra la Vella,EUR,€,Europe,Southern Europe,42.5,1.5
+7,Angola,AO,244,Luanda,AOA,Kz,Africa,Middle Africa,-12.5,18.5
+8,Anguilla,AI,-263,The Valley,XCD,$,Americas,Caribbean,18.25,-63.16666666
+9,Antarctica,AQ,672,,AAD,$,Polar,,-74.65,4.48
+10,Antigua And Barbuda,AG,-267,St. John's,XCD,$,Americas,Caribbean,17.05,-61.8
+11,Argentina,AR,54,Buenos Aires,ARS,$,Americas,South America,-34,-64
+12,Armenia,AM,374,Yerevan,AMD,֏,Asia,Western Asia,40,45
+13,Aruba,AW,297,Oranjestad,AWG,ƒ,Americas,Caribbean,12.5,-69.96666666
+14,Australia,AU,61,Canberra,AUD,$,Oceania,Australia and New Zealand,-27,133
+15,Austria,AT,43,Vienna,EUR,€,Europe,Western Europe,47.33333333,13.33333333
+16,Azerbaijan,AZ,994,Baku,AZN,m,Asia,Western Asia,40.5,47.5
+18,Bahrain,BH,973,Manama,BHD,.د.ب,Asia,Western Asia,26,50.55
+19,Bangladesh,BD,880,Dhaka,BDT,৳,Asia,Southern Asia,24,90
+20,Barbados,BB,-245,Bridgetown,BBD,Bds$,Americas,Caribbean,13.16666666,-59.53333333
+21,Belarus,BY,375,Minsk,BYN,Br,Europe,Eastern Europe,53,28
+22,Belgium,BE,32,Brussels,EUR,€,Europe,Western Europe,50.83333333,4
+23,Belize,BZ,501,Belmopan,BZD,$,Americas,Central America,17.25,-88.75
+24,Benin,BJ,229,Porto-Novo,XOF,CFA,Africa,Western Africa,9.5,2.25
+25,Bermuda,BM,-440,Hamilton,BMD,$,Americas,Northern America,32.33333333,-64.75
+26,Bhutan,BT,975,Thimphu,BTN,Nu.,Asia,Southern Asia,27.5,90.5
+27,Bolivia,BO,591,Sucre,BOB,Bs.,Americas,South America,-17,-65
+155,"Bonaire, Sint Eustatius and Saba",BQ,599,Kralendijk,USD,$,Americas,Caribbean,12.15,-68.266667
+28,Bosnia and Herzegovina,BA,387,Sarajevo,BAM,KM,Europe,Southern Europe,44,18
+29,Botswana,BW,267,Gaborone,BWP,P,Africa,Southern Africa,-22,24
+30,Bouvet Island,BV,55,,NOK,kr,,,-54.43333333,3.4
+31,Brazil,BR,55,Brasilia,BRL,R$,Americas,South America,-10,-55
+32,British Indian Ocean Territory,IO,246,Diego Garcia,USD,$,Africa,Eastern Africa,-6,71.5
+33,Brunei,BN,673,Bandar Seri Begawan,BND,B$,Asia,South-Eastern Asia,4.5,114.6666667
+34,Bulgaria,BG,359,Sofia,BGN,Лв.,Europe,Eastern Europe,43,25
+35,Burkina Faso,BF,226,Ouagadougou,XOF,CFA,Africa,Western Africa,13,-2
+36,Burundi,BI,257,Bujumbura,BIF,FBu,Africa,Eastern Africa,-3.5,30
+37,Cambodia,KH,855,Phnom Penh,KHR,KHR,Asia,South-Eastern Asia,13,105
+38,Cameroon,CM,237,Yaounde,XAF,FCFA,Africa,Middle Africa,6,12
+39,Canada,CA,1,Ottawa,CAD,$,Americas,Northern America,60,-95
+40,Cape Verde,CV,238,Praia,CVE,$,Africa,Western Africa,16,-24
+41,Cayman Islands,KY,-344,George Town,KYD,$,Americas,Caribbean,19.5,-80.5
+42,Central African Republic,CF,236,Bangui,XAF,FCFA,Africa,Middle Africa,7,21
+43,Chad,TD,235,N'Djamena,XAF,FCFA,Africa,Middle Africa,15,19
+44,Chile,CL,56,Santiago,CLP,$,Americas,South America,-30,-71
+45,China,CN,86,Beijing,CNY,¥,Asia,Eastern Asia,35,105
+46,Christmas Island,CX,61,Flying Fish Cove,AUD,$,Oceania,Australia and New Zealand,-10.5,105.6666667
+47,Cocos (Keeling) Islands,CC,61,West Island,AUD,$,Oceania,Australia and New Zealand,-12.5,96.83333333
+48,Colombia,CO,57,Bogotá,COP,$,Americas,South America,4,-72
+49,Comoros,KM,269,Moroni,KMF,CF,Africa,Eastern Africa,-12.16666666,44.25
+50,Congo,CG,242,Brazzaville,XAF,FC,Africa,Middle Africa,-1,15
+52,Cook Islands,CK,682,Avarua,NZD,$,Oceania,Polynesia,-21.23333333,-159.7666667
+53,Costa Rica,CR,506,San Jose,CRC,₡,Americas,Central America,10,-84
+54,Cote D'Ivoire (Ivory Coast),CI,225,Yamoussoukro,XOF,CFA,Africa,Western Africa,8,-5
+55,Croatia,HR,385,Zagreb,HRK,kn,Europe,Southern Europe,45.16666666,15.5
+56,Cuba,CU,53,Havana,CUP,$,Americas,Caribbean,21.5,-80
+249,Curaçao,CW,599,Willemstad,ANG,ƒ,Americas,Caribbean,12.116667,-68.933333
+57,Cyprus,CY,357,Nicosia,EUR,€,Europe,Southern Europe,35,33
+58,Czech Republic,CZ,420,Prague,CZK,Kč,Europe,Eastern Europe,49.75,15.5
+51,Democratic Republic of the Congo,CD,243,Kinshasa,CDF,FC,Africa,Middle Africa,0,25
+59,Denmark,DK,45,Copenhagen,DKK,Kr.,Europe,Northern Europe,56,10
+60,Djibouti,DJ,253,Djibouti,DJF,Fdj,Africa,Eastern Africa,11.5,43
+61,Dominica,DM,-766,Roseau,XCD,$,Americas,Caribbean,15.41666666,-61.33333333
+62,Dominican Republic,DO,+1-809 and 1-829,Santo Domingo,DOP,$,Americas,Caribbean,19,-70.66666666
+63,East Timor,TL,670,Dili,USD,$,Asia,South-Eastern Asia,-8.83333333,125.9166667
+64,Ecuador,EC,593,Quito,USD,$,Americas,South America,-2,-77.5
+65,Egypt,EG,20,Cairo,EGP,ج.م,Africa,Northern Africa,27,30
+66,El Salvador,SV,503,San Salvador,USD,$,Americas,Central America,13.83333333,-88.91666666
+67,Equatorial Guinea,GQ,240,Malabo,XAF,FCFA,Africa,Middle Africa,2,10
+68,Eritrea,ER,291,Asmara,ERN,Nfk,Africa,Eastern Africa,15,39
+69,Estonia,EE,372,Tallinn,EUR,€,Europe,Northern Europe,59,26
+70,Ethiopia,ET,251,Addis Ababa,ETB,Nkf,Africa,Eastern Africa,8,38
+71,Falkland Islands,FK,500,Stanley,FKP,£,Americas,South America,-51.75,-59
+72,Faroe Islands,FO,298,Torshavn,DKK,Kr.,Europe,Northern Europe,62,-7
+73,Fiji Islands,FJ,679,Suva,FJD,FJ$,Oceania,Melanesia,-18,175
+74,Finland,FI,358,Helsinki,EUR,€,Europe,Northern Europe,64,26
+75,France,FR,33,Paris,EUR,€,Europe,Western Europe,46,2
+76,French Guiana,GF,594,Cayenne,EUR,€,Americas,South America,4,-53
+77,French Polynesia,PF,689,Papeete,XPF,₣,Oceania,Polynesia,-15,-140
+78,French Southern Territories,TF,262,Port-aux-Francais,EUR,€,Africa,Southern Africa,-49.25,69.167
+79,Gabon,GA,241,Libreville,XAF,FCFA,Africa,Middle Africa,-1,11.75
+80,Gambia The,GM,220,Banjul,GMD,D,Africa,Western Africa,13.46666666,-16.56666666
+81,Georgia,GE,995,Tbilisi,GEL,ლ,Asia,Western Asia,42,43.5
+82,Germany,DE,49,Berlin,EUR,€,Europe,Western Europe,51,9
+83,Ghana,GH,233,Accra,GHS,GH₵,Africa,Western Africa,8,-2
+84,Gibraltar,GI,350,Gibraltar,GIP,£,Europe,Southern Europe,36.13333333,-5.35
+85,Greece,GR,30,Athens,EUR,€,Europe,Southern Europe,39,22
+86,Greenland,GL,299,Nuuk,DKK,Kr.,Americas,Northern America,72,-40
+87,Grenada,GD,-472,St. George's,XCD,$,Americas,Caribbean,12.11666666,-61.66666666
+88,Guadeloupe,GP,590,Basse-Terre,EUR,€,Americas,Caribbean,16.25,-61.583333
+89,Guam,GU,-670,Hagatna,USD,$,Oceania,Micronesia,13.46666666,144.7833333
+90,Guatemala,GT,502,Guatemala City,GTQ,Q,Americas,Central America,15.5,-90.25
+91,Guernsey and Alderney,GG,-1437,St Peter Port,GBP,£,Europe,Northern Europe,49.46666666,-2.58333333
+92,Guinea,GN,224,Conakry,GNF,FG,Africa,Western Africa,11,-10
+93,Guinea-Bissau,GW,245,Bissau,XOF,CFA,Africa,Western Africa,12,-15
+94,Guyana,GY,592,Georgetown,GYD,$,Americas,South America,5,-59
+95,Haiti,HT,509,Port-au-Prince,HTG,G,Americas,Caribbean,19,-72.41666666
+96,Heard Island and McDonald Islands,HM,672,,AUD,$,,,-53.1,72.51666666
+97,Honduras,HN,504,Tegucigalpa,HNL,L,Americas,Central America,15,-86.5
+98,Hong Kong S.A.R.,HK,852,Hong Kong,HKD,$,Asia,Eastern Asia,22.25,114.1666667
+99,Hungary,HU,36,Budapest,HUF,Ft,Europe,Eastern Europe,47,20
+100,Iceland,IS,354,Reykjavik,ISK,kr,Europe,Northern Europe,65,-18
+101,India,IN,91,New Delhi,INR,₹,Asia,Southern Asia,20,77
+102,Indonesia,ID,62,Jakarta,IDR,Rp,Asia,South-Eastern Asia,-5,120
+103,Iran,IR,98,Tehran,IRR,﷼,Asia,Southern Asia,32,53
+104,Iraq,IQ,964,Baghdad,IQD,د.ع,Asia,Western Asia,33,44
+105,Ireland,IE,353,Dublin,EUR,€,Europe,Northern Europe,53,-8
+106,Israel,IL,972,Jerusalem,ILS,₪,Asia,Western Asia,31.5,34.75
+107,Italy,IT,39,Rome,EUR,€,Europe,Southern Europe,42.83333333,12.83333333
+108,Jamaica,JM,-875,Kingston,JMD,J$,Americas,Caribbean,18.25,-77.5
+109,Japan,JP,81,Tokyo,JPY,¥,Asia,Eastern Asia,36,138
+110,Jersey,JE,-1490,Saint Helier,GBP,£,Europe,Northern Europe,49.25,-2.16666666
+111,Jordan,JO,962,Amman,JOD,ا.د,Asia,Western Asia,31,36
+112,Kazakhstan,KZ,7,Astana,KZT,лв,Asia,Central Asia,48,68
+113,Kenya,KE,254,Nairobi,KES,KSh,Africa,Eastern Africa,1,38
+114,Kiribati,KI,686,Tarawa,AUD,$,Oceania,Micronesia,1.41666666,173
+248,Kosovo,XK,383,Pristina,EUR,€,Europe,Eastern Europe,42.5612909,20.3403035
+117,Kuwait,KW,965,Kuwait City,KWD,ك.د,Asia,Western Asia,29.5,45.75
+118,Kyrgyzstan,KG,996,Bishkek,KGS,лв,Asia,Central Asia,41,75
+119,Laos,LA,856,Vientiane,LAK,₭,Asia,South-Eastern Asia,18,105
+120,Latvia,LV,371,Riga,EUR,€,Europe,Northern Europe,57,25
+121,Lebanon,LB,961,Beirut,LBP,£,Asia,Western Asia,33.83333333,35.83333333
+122,Lesotho,LS,266,Maseru,LSL,L,Africa,Southern Africa,-29.5,28.5
+123,Liberia,LR,231,Monrovia,LRD,$,Africa,Western Africa,6.5,-9.5
+124,Libya,LY,218,Tripolis,LYD,د.ل,Africa,Northern Africa,25,17
+125,Liechtenstein,LI,423,Vaduz,CHF,CHf,Europe,Western Europe,47.26666666,9.53333333
+126,Lithuania,LT,370,Vilnius,EUR,€,Europe,Northern Europe,56,24
+127,Luxembourg,LU,352,Luxembourg,EUR,€,Europe,Western Europe,49.75,6.16666666
+128,Macau S.A.R.,MO,853,Macao,MOP,$,Asia,Eastern Asia,22.16666666,113.55
+129,Macedonia,MK,389,Skopje,MKD,ден,Europe,Southern Europe,41.83333333,22
+130,Madagascar,MG,261,Antananarivo,MGA,Ar,Africa,Eastern Africa,-20,47
+131,Malawi,MW,265,Lilongwe,MWK,MK,Africa,Eastern Africa,-13.5,34
+132,Malaysia,MY,60,Kuala Lumpur,MYR,RM,Asia,South-Eastern Asia,2.5,112.5
+133,Maldives,MV,960,Male,MVR,Rf,Asia,Southern Asia,3.25,73
+134,Mali,ML,223,Bamako,XOF,CFA,Africa,Western Africa,17,-4
+135,Malta,MT,356,Valletta,EUR,€,Europe,Southern Europe,35.83333333,14.58333333
+136,Man (Isle of),IM,-1580,"Douglas, Isle of Man",GBP,£,Europe,Northern Europe,54.25,-4.5
+137,Marshall Islands,MH,692,Majuro,USD,$,Oceania,Micronesia,9,168
+138,Martinique,MQ,596,Fort-de-France,EUR,€,Americas,Caribbean,14.666667,-61
+139,Mauritania,MR,222,Nouakchott,MRO,MRU,Africa,Western Africa,20,-12
+140,Mauritius,MU,230,Port Louis,MUR,₨,Africa,Eastern Africa,-20.28333333,57.55
+141,Mayotte,YT,262,Mamoudzou,EUR,€,Africa,Eastern Africa,-12.83333333,45.16666666
+142,Mexico,MX,52,Ciudad de México,MXN,$,Americas,Central America,23,-102
+143,Micronesia,FM,691,Palikir,USD,$,Oceania,Micronesia,6.91666666,158.25
+144,Moldova,MD,373,Chisinau,MDL,L,Europe,Eastern Europe,47,29
+145,Monaco,MC,377,Monaco,EUR,€,Europe,Western Europe,43.73333333,7.4
+146,Mongolia,MN,976,Ulan Bator,MNT,₮,Asia,Eastern Asia,46,105
+147,Montenegro,ME,382,Podgorica,EUR,€,Europe,Southern Europe,42.5,19.3
+148,Montserrat,MS,-663,Plymouth,XCD,$,Americas,Caribbean,16.75,-62.2
+149,Morocco,MA,212,Rabat,MAD,DH,Africa,Northern Africa,32,-5
+150,Mozambique,MZ,258,Maputo,MZN,MT,Africa,Eastern Africa,-18.25,35
+151,Myanmar,MM,95,Nay Pyi Taw,MMK,K,Asia,South-Eastern Asia,22,98
+152,Namibia,NA,264,Windhoek,NAD,$,Africa,Southern Africa,-22,17
+153,Nauru,NR,674,Yaren,AUD,$,Oceania,Micronesia,-0.53333333,166.9166667
+154,Nepal,NP,977,Kathmandu,NPR,₨,Asia,Southern Asia,28,84
+156,Netherlands,NL,31,Amsterdam,EUR,€,Europe,Western Europe,52.5,5.75
+157,New Caledonia,NC,687,Noumea,XPF,₣,Oceania,Melanesia,-21.5,165.5
+158,New Zealand,NZ,64,Wellington,NZD,$,Oceania,Australia and New Zealand,-41,174
+159,Nicaragua,NI,505,Managua,NIO,C$,Americas,Central America,13,-85
+160,Niger,NE,227,Niamey,XOF,CFA,Africa,Western Africa,16,8
+161,Nigeria,NG,234,Abuja,NGN,₦,Africa,Western Africa,10,8
+162,Niue,NU,683,Alofi,NZD,$,Oceania,Polynesia,-19.03333333,-169.8666667
+163,Norfolk Island,NF,672,Kingston,AUD,$,Oceania,Australia and New Zealand,-29.03333333,167.95
+115,North Korea,KP,850,Pyongyang,KPW,₩,Asia,Eastern Asia,40,127
+164,Northern Mariana Islands,MP,-669,Saipan,USD,$,Oceania,Micronesia,15.2,145.75
+165,Norway,NO,47,Oslo,NOK,kr,Europe,Northern Europe,62,10
+166,Oman,OM,968,Muscat,OMR,.ع.ر,Asia,Western Asia,21,57
+167,Pakistan,PK,92,Islamabad,PKR,₨,Asia,Southern Asia,30,70
+168,Palau,PW,680,Melekeok,USD,$,Oceania,Micronesia,7.5,134.5
+169,Palestinian Territory Occupied,PS,970,East Jerusalem,ILS,₪,Asia,Western Asia,31.9,35.2
+170,Panama,PA,507,Panama City,PAB,B/.,Americas,Central America,9,-80
+171,Papua new Guinea,PG,675,Port Moresby,PGK,K,Oceania,Melanesia,-6,147
+172,Paraguay,PY,595,Asuncion,PYG,₲,Americas,South America,-23,-58
+173,Peru,PE,51,Lima,PEN,S/.,Americas,South America,-10,-76
+174,Philippines,PH,63,Manila,PHP,₱,Asia,South-Eastern Asia,13,122
+175,Pitcairn Island,PN,870,Adamstown,NZD,$,Oceania,Polynesia,-25.06666666,-130.1
+176,Poland,PL,48,Warsaw,PLN,zł,Europe,Eastern Europe,52,20
+177,Portugal,PT,351,Lisbon,EUR,€,Europe,Southern Europe,39.5,-8
+178,Puerto Rico,PR,+1-787 and 1-939,San Juan,USD,$,Americas,Caribbean,18.25,-66.5
+179,Qatar,QA,974,Doha,QAR,ق.ر,Asia,Western Asia,25.5,51.25
+180,Reunion,RE,262,Saint-Denis,EUR,€,Africa,Eastern Africa,-21.15,55.5
+181,Romania,RO,40,Bucharest,RON,lei,Europe,Eastern Europe,46,25
+182,Russia,RU,7,Moscow,RUB,₽,Europe,Eastern Europe,60,100
+183,Rwanda,RW,250,Kigali,RWF,FRw,Africa,Eastern Africa,-2,30
+184,Saint Helena,SH,290,Jamestown,SHP,£,Africa,Western Africa,-15.95,-5.7
+185,Saint Kitts And Nevis,KN,-868,Basseterre,XCD,$,Americas,Caribbean,17.33333333,-62.75
+186,Saint Lucia,LC,-757,Castries,XCD,$,Americas,Caribbean,13.88333333,-60.96666666
+187,Saint Pierre and Miquelon,PM,508,Saint-Pierre,EUR,€,Americas,Northern America,46.83333333,-56.33333333
+188,Saint Vincent And The Grenadines,VC,-783,Kingstown,XCD,$,Americas,Caribbean,13.25,-61.2
+189,Saint-Barthelemy,BL,590,Gustavia,EUR,€,Americas,Caribbean,18.5,-63.41666666
+190,Saint-Martin (French part),MF,590,Marigot,EUR,€,Americas,Caribbean,18.08333333,-63.95
+191,Samoa,WS,685,Apia,WST,SAT,Oceania,Polynesia,-13.58333333,-172.3333333
+192,San Marino,SM,378,San Marino,EUR,€,Europe,Southern Europe,43.76666666,12.41666666
+193,Sao Tome and Principe,ST,239,Sao Tome,STD,Db,Africa,Middle Africa,1,7
+194,Saudi Arabia,SA,966,Riyadh,SAR,﷼,Asia,Western Asia,25,45
+195,Senegal,SN,221,Dakar,XOF,CFA,Africa,Western Africa,14,-14
+196,Serbia,RS,381,Belgrade,RSD,din,Europe,Southern Europe,44,21
+197,Seychelles,SC,248,Victoria,SCR,SRe,Africa,Eastern Africa,-4.58333333,55.66666666
+198,Sierra Leone,SL,232,Freetown,SLL,Le,Africa,Western Africa,8.5,-11.5
+199,Singapore,SG,65,Singapur,SGD,$,Asia,South-Eastern Asia,1.36666666,103.8
+250,Sint Maarten (Dutch part),SX,1721,Philipsburg,ANG,ƒ,Americas,Caribbean,18.033333,-63.05
+200,Slovakia,SK,421,Bratislava,EUR,€,Europe,Eastern Europe,48.66666666,19.5
+201,Slovenia,SI,386,Ljubljana,EUR,€,Europe,Southern Europe,46.11666666,14.81666666
+202,Solomon Islands,SB,677,Honiara,SBD,Si$,Oceania,Melanesia,-8,159
+203,Somalia,SO,252,Mogadishu,SOS,Sh.so.,Africa,Eastern Africa,10,49
+204,South Africa,ZA,27,Pretoria,ZAR,R,Africa,Southern Africa,-29,24
+205,South Georgia,GS,500,Grytviken,GBP,£,Americas,South America,-54.5,-37
+116,South Korea,KR,82,Seoul,KRW,₩,Asia,Eastern Asia,37,127.5
+206,South Sudan,SS,211,Juba,SSP,£,Africa,Middle Africa,7,30
+207,Spain,ES,34,Madrid,EUR,€,Europe,Southern Europe,40,-4
+208,Sri Lanka,LK,94,Colombo,LKR,Rs,Asia,Southern Asia,7,81
+209,Sudan,SD,249,Khartoum,SDG,.س.ج,Africa,Northern Africa,15,30
+210,Suriname,SR,597,Paramaribo,SRD,$,Americas,South America,4,-56
+211,Svalbard And Jan Mayen Islands,SJ,47,Longyearbyen,NOK,kr,Europe,Northern Europe,78,20
+212,Swaziland,SZ,268,Mbabane,SZL,E,Africa,Southern Africa,-26.5,31.5
+213,Sweden,SE,46,Stockholm,SEK,kr,Europe,Northern Europe,62,15
+214,Switzerland,CH,41,Bern,CHF,CHf,Europe,Western Europe,47,8
+215,Syria,SY,963,Damascus,SYP,LS,Asia,Western Asia,35,38
+216,Taiwan,TW,886,Taipei,TWD,$,Asia,Eastern Asia,23.5,121
+217,Tajikistan,TJ,992,Dushanbe,TJS,SM,Asia,Central Asia,39,71
+218,Tanzania,TZ,255,Dodoma,TZS,TSh,Africa,Eastern Africa,-6,35
+219,Thailand,TH,66,Bangkok,THB,฿,Asia,South-Eastern Asia,15,100
+17,The Bahamas,BS,-241,Nassau,BSD,B$,Americas,Caribbean,24.25,-76
+220,Togo,TG,228,Lome,XOF,CFA,Africa,Western Africa,8,1.16666666
+221,Tokelau,TK,690,,NZD,$,Oceania,Polynesia,-9,-172
+222,Tonga,TO,676,Nuku'alofa,TOP,$,Oceania,Polynesia,-20,-175
+223,Trinidad And Tobago,TT,-867,Port of Spain,TTD,$,Americas,Caribbean,11,-61
+224,Tunisia,TN,216,Tunis,TND,ت.د,Africa,Northern Africa,34,9
+225,Turkey,TR,90,Ankara,TRY,₺,Asia,Western Asia,39,35
+226,Turkmenistan,TM,993,Ashgabat,TMT,T,Asia,Central Asia,40,60
+227,Turks And Caicos Islands,TC,-648,Cockburn Town,USD,$,Americas,Caribbean,21.75,-71.58333333
+228,Tuvalu,TV,688,Funafuti,AUD,$,Oceania,Polynesia,-8,178
+229,Uganda,UG,256,Kampala,UGX,USh,Africa,Eastern Africa,1,32
+230,Ukraine,UA,380,Kiev,UAH,₴,Europe,Eastern Europe,49,32
+231,United Arab Emirates,AE,971,Abu Dhabi,AED,إ.د,Asia,Western Asia,24,54
+232,United Kingdom,GB,44,London,GBP,£,Europe,Northern Europe,54,-2
+233,United States,US,1,Washington,USD,$,Americas,Northern America,38,-97
+234,United States Minor Outlying Islands,UM,1,,USD,$,Americas,Northern America,0,0
+235,Uruguay,UY,598,Montevideo,UYU,$,Americas,South America,-33,-56
+236,Uzbekistan,UZ,998,Tashkent,UZS,лв,Asia,Central Asia,41,64
+237,Vanuatu,VU,678,Port Vila,VUV,VT,Oceania,Melanesia,-16,167
+238,Vatican City State (Holy See),VA,379,Vatican City,EUR,€,Europe,Southern Europe,41.9,12.45
+239,Venezuela,VE,58,Caracas,VEF,Bs,Americas,South America,8,-66
+240,Vietnam,VN,84,Hanoi,VND,₫,Asia,South-Eastern Asia,16.16666666,107.8333333
+241,Virgin Islands (British),VG,-283,Road Town,USD,$,Americas,Caribbean,18.431383,-64.62305
+242,Virgin Islands (US),VI,-339,Charlotte Amalie,USD,$,Americas,Caribbean,18.34,-64.93
+243,Wallis And Futuna Islands,WF,681,Mata Utu,XPF,₣,Oceania,Polynesia,-13.3,-176.2
+244,Western Sahara,EH,212,El-Aaiun,MAD,MAD,Africa,Northern Africa,24.5,-13
+245,Yemen,YE,967,Sanaa,YER,﷼,Asia,Western Asia,15,48
+246,Zambia,ZM,260,Lusaka,ZMW,ZK,Africa,Eastern Africa,-15,30
+247,Zimbabwe,ZW,263,Harare,ZWL,$,Africa,Eastern Africa,-20,30

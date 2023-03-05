@@ -1,0 +1,43 @@
+import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+
+plugins {
+	id 'org.springframework.boot' version '3.0.3'
+	id 'io.spring.dependency-management' version '1.1.0'
+	id 'org.jetbrains.kotlin.jvm' version '1.7.22'
+	id 'org.jetbrains.kotlin.plugin.spring' version '1.7.22'
+	id 'org.jetbrains.kotlin.plugin.jpa' version '1.7.22'
+}
+
+group = 'com.ismail.creatvt'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '17'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+
+	implementation 'com.fasterxml.jackson.module:jackson-module-kotlin'
+	implementation 'com.opencsv:opencsv:5.7.1'
+	implementation 'mysql:mysql-connector-java:5.1.44'
+	implementation 'org.jetbrains.kotlin:kotlin-reflect'
+    implementation 'org.projectlombok:lombok:1.18.22'
+
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testImplementation 'io.mockk:mockk:1.12.0'
+	testImplementation "com.fasterxml.jackson.core:jackson-databind:2.12.5"
+}
+
+tasks.withType(KotlinCompile) {
+	kotlinOptions {
+		freeCompilerArgs = ['-Xjsr305=strict']
+		jvmTarget = '17'
+	}
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
